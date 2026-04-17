@@ -11,6 +11,23 @@ pinned: false
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 full file setup: https://drive.google.com/drive/folders/1W6heXeJUohNFxLZayTD4UbEp5OC4_Urn?usp=drive_link
+torch (PyTorch) → 2.2.2
+torchvision → 0.17.2
+torchcam → 0.4.0
+opencv-python (cv2) → 4.9.0.80
+mediapipe → 0.10.14
+scikit-image → 0.22.0
+facenet-pytorch → 2.5.3
+pytorch-grad-cam → 1.5.0
+transformers → 4.41.2
+numpy → 1.26.4
+pandas → 2.2.2
+matplotlib → 3.8.4
+Pillow (PIL) → 10.3.0
+fpdf → 1.7.2
+gradio → 4.36.1
+google-generativeai → 0.7.2
+
 
 I am excited to share that I am the creator of DFA (Deep-Trace Forensic Assistant), an AI-driven digital forensics and evidence verification system designed to address one of the most critical challenges of the modern digital era: deepfakes, manipulated media, and large-scale misinformation.
 As synthetic media becomes increasingly realistic, the boundary between real and fabricated content is rapidly disappearing. Deepfakes are no longer experimental—they influence public opinion, damage reputations, impact elections, and undermine trust in digital evidence. DFA was developed with a clear objective: to restore trust and transparency in digital media through explainable and reliable AI.
